@@ -1,4 +1,4 @@
-<link rel="me" href="https://mastodon.social/@joelghill" />
+<a rel="me" href="https://fosstodon.org/@joelghill">Mastodon</a>
 
 ### Hi there 👋
 <!--
