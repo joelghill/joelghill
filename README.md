@@ -1,6 +1,4 @@
-<a rel="me" href="https://fosstodon.org/@joelghill">Follow me on Mastodon!</a>
-
-### Hi there 👋
+### Hello friends 👋
 I'm a software developer located in Saskatoon, Saskatchewan, and I usually have at least one passion project on the go.
 - 🔭 I’m currently working on a web app to display SK Heath services data and I am open to collaboration on either the back end API or the front end web app!
 - 😄 Pronouns: he/him
